@@ -6,6 +6,10 @@ function App() {
     <>
     <div className="bg-yellow-200 h-screen w-screen">
       <h2 className='font-extrabold'>ssssssssssssssswfo</h2>
+      <h2 className='font-extrabold'>ssssssssssssssswfo</h2>
+      <h2 className='font-extrabold'>ssssssssssssssswfo</h2>
+      <h2 className='font-extrabold'>ssssssssssssssswfo</h2>
+      <h2 className='font-extrabold'>ssssssssssssssswfo</h2>
     </div>
     </>
   )
